@@ -1,0 +1,19 @@
+# ninja log v5
+16576	21329	7013206179316751	CMakeFiles/Labolatorna1.dir/main.cpp.obj	3d003b8afb21f0c7
+1	4517	7013207795163137	CMakeFiles/Laba1.dir/main.cpp.obj	5c92bbe6601dec5a
+36	16575	7013206130742329	CMakeFiles/Labolatorna1.dir/FileStream_functions.cpp.obj	93c5c133b8c78ca3
+9	1359	7013219414018452	Laba1.exe	adf800c41ea79d46
+21330	24017	7013206206108343	CMakeFiles/Labolatorna1.dir/FilePointer_functions.cpp.obj	8b86beae944a9032
+4523	8176	7013207831764573	CMakeFiles/Laba1.dir/FilePointer_functions.cpp.obj	e025c185897702f8
+8176	11193	7013207861927912	CMakeFiles/Laba1.dir/FileStream_functions.cpp.obj	e866262b9f514805
+1	4353	7013220288272191	CMakeFiles/Laba1.dir/main.cpp.obj	5c92bbe6601dec5a
+4371	7357	7013220318474732	CMakeFiles/Laba1.dir/FileStream_functions.cpp.obj	e866262b9f514805
+7358	10401	7013220348883410	CMakeFiles/Laba1.dir/FilePointer_functions.cpp.obj	e025c185897702f8
+10402	10795	7013220352729329	Laba1.exe	b7274727b8b644f4
+14	4311	7013221259047931	CMakeFiles/Laba1.dir/main.cpp.obj	5c92bbe6601dec5a
+4312	5402	7013221270160004	Laba1.exe	b7274727b8b644f4
+86	4817	7013222732536977	CMakeFiles/Laba1.dir/main.cpp.obj	5c92bbe6601dec5a
+4819	6168	7013222746074623	Laba1.exe	b7274727b8b644f4
+23	17196	7013229630045778	CMakeFiles/Laba1.dir/main.cpp.obj	5c92bbe6601dec5a
+17198	21522	7013229674821481	CMakeFiles/Laba1.dir/FilePointer_functions.cpp.obj	e025c185897702f8
+21572	23149	7013229691051620	Laba1.exe	b7274727b8b644f4
